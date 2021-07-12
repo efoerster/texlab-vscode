@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/command-exists": "^1.2.0",
-    "@types/node": "^15.12.2",
+    "@types/node": "^16.3.1",
     "@types/request": "^2.48.5",
     "@types/tar": "^4.0.4",
     "@types/unzipper": "^0.10.3",
