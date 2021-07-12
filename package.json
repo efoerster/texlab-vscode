@@ -30,7 +30,7 @@
     "@types/unzipper": "^0.10.3",
     "@types/vscode": "^1.46.0",
     "@types/webpack": "^5.28.0",
-    "@typescript-eslint/eslint-plugin": "^4.26.1",
+    "@typescript-eslint/eslint-plugin": "^4.28.2",
     "@typescript-eslint/parser": "^4.26.1",
     "clean-webpack-plugin": "^4.0.0-alpha.0",
     "eslint": "^7.28.0",
